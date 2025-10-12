@@ -1,4 +1,4 @@
-<h2 align="left">Hola, Soy Izan y estoy en 2Dam</h2>
+<h2 align="left">Hola, Soy Izan Romero y soy Software Developer </h2>
 
 ###
 
