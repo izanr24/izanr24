@@ -1,14 +1,23 @@
 <h1 align="center">👋 Hola, soy <strong>Izan Romero</strong></h1>
+
+<img align="left" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArPlxzbyW9nh5rHCBXU6kZXHQVWwbPEzDNmXojWM5Dt58M92Cy8PwJPJE878uW3t5B2Lry9dTueKhFNXLiy9aTQDyqWtEGJnA_gXV-0cpmGg51GIzOE5HuVy4UgJOdevuEzP0gne2NgE/s1600/programando.gif" 
+         width="350px" 
+         alt="Programando" />
+
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  Soy un desarrollador de software apasionado por crear soluciones funcionales, aprender nuevas tecnologías 
-  y mejorar cada día. Trabajo con desarrollo web, backend, bases de datos y entornos modernos.
+      Soy un desarrollador de software apasionado por crear soluciones funcionales, 
+      aprender nuevas tecnologías y mejorar cada día. Trabajo con desarrollo web Full Stack, 
+      bases de datos y entornos modernos.
 </p>
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<br>
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
 
 <div style="display: flex; flex-wrap: wrap;" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"/>
@@ -48,12 +57,12 @@
 
 <h2 align="left">🐸 Sobre mí</h2>
 
-<img align="right" height="170" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />
+<img align="right" width="270" height="170" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" />
 
 <ul>
-  <li>💻 Actualmente mejorando mis habilidades en desarrollo web y backend</li>
+  <li>💻 Actualmente mejorando mis habilidades en desarrollo Full Stack</li>
   <li>🚀 Me gusta crear proyectos que resuelvan problemas reales</li>
-  <li>📦 Uso Docker, Java, Spring, React y más</li>
+  <li>📦 Uso Docker, Java, Spring, Angular y más</li>
   <li>📚 Siempre aprendiendo nuevas tecnologías</li>
 </ul>
 
@@ -64,18 +73,13 @@
 <h2 align="center">📫 Contáctame</h2>
 
 <div align="center">
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:romeroizito">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/izan-romero-romero-a747b0265/?trk=opento_sprofile_details">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
 
-<h2 align="center">🐍 Snake Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/izanr24/izanr24/output/snake.svg" alt="Snake animation"/>
-</p>
